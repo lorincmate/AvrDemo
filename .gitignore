@@ -1,0 +1,13 @@
+#vsCode indexer
+.vscode/ipch
+
+#Binary files
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
+*.srec
+
+#Compiler object files
+*.o
